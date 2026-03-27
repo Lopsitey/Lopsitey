@@ -18,4 +18,4 @@ Hi, I'm Jake Astles — a passionate and dedicated game developer. My journey in
 Outside of class, I completed over 300 hours of work experience at a software house and took on leadership roles like House Captain and course representative, helping me grow as a team player in both technical and professional environments. I'm always interested in exploring new tools and languages, and I have a genuine passion for solving problems through code, whether that’s in game engines, graphics programming, or web development. I see programming not just as a skill, but as a creative process that allows me to bring ideas to life. My long-term goal is to work with a leading studio like Ubisoft, contributing to large-scale projects that push the boundaries of design and technology. 
 
 Feel free to ask me about collaborating on games, or anything from web development to OOP or even SQL and data-oriented stuff.
-You can always reach me at contact@jake-astles.work or on the contact form on my website
+You can always reach me at contact@jake-astles.work or on the contact form on my website: jake-astles.work
